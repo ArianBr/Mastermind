@@ -1,0 +1,12 @@
+{
+  "id": "conv-1784582134323-89c7wh3xv",
+  "providerId": "claude",
+  "title": "HI",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784582134323,
+  "updatedAt": 1784582808127,
+  "lastResponseAt": 1784582134363,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "currentNote": "Willkommen.md"
+}

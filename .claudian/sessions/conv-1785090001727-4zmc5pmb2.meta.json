@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785090001727-4zmc5pmb2",
+  "providerId": "claude",
+  "title": "/login",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785090001728,
+  "updatedAt": 1785099021893,
+  "lastResponseAt": 1785099013796,
+  "sessionId": "fb51a764-ec29-499e-8ee6-60c408041e35",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "fb51a764-ec29-499e-8ee6-60c408041e35"
+  },
+  "currentNote": "Projekte/Wizzard/CLAUDE.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 674,
+    "cacheReadInputTokens": 48706,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 49382,
+    "percentage": 5
+  }
+}

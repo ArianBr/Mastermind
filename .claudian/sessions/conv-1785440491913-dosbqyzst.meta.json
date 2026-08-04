@@ -1,0 +1,27 @@
+{
+  "id": "conv-1785440491913-dosbqyzst",
+  "providerId": "claude",
+  "title": "Refine writing style",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785440491913,
+  "updatedAt": 1785881926222,
+  "lastResponseAt": 1785881810234,
+  "sessionId": "7f0a0646-7974-4c61-b501-7aab704c4aa2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7f0a0646-7974-4c61-b501-7aab704c4aa2"
+  },
+  "currentNote": "05 Daily Notes/2026-07-26.md",
+  "externalContextPaths": [
+    "D:\\KI\\Mastermind"
+  ],
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 159,
+    "cacheReadInputTokens": 67109,
+    "contextWindow": 200000,
+    "contextTokens": 67278,
+    "percentage": 34
+  }
+}
