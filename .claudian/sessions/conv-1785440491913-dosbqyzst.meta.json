@@ -4,8 +4,8 @@
   "title": "Refine writing style",
   "titleGenerationStatus": "success",
   "createdAt": 1785440491913,
-  "updatedAt": 1785881926222,
-  "lastResponseAt": 1785881810234,
+  "updatedAt": 1785882777397,
+  "lastResponseAt": 1785882760270,
   "sessionId": "7f0a0646-7974-4c61-b501-7aab704c4aa2",
   "selectedModel": "haiku",
   "providerState": {
@@ -17,11 +17,11 @@
   ],
   "usage": {
     "model": "haiku",
-    "inputTokens": 10,
-    "cacheCreationInputTokens": 159,
-    "cacheReadInputTokens": 67109,
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 686,
+    "cacheReadInputTokens": 84566,
     "contextWindow": 200000,
-    "contextTokens": 67278,
-    "percentage": 34
+    "contextTokens": 85260,
+    "percentage": 43
   }
 }
